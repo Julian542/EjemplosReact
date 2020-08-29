@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.titulo{
+  font-family: Verdana;
+  font-size: 25px;
+  font-weight: bold;
+  color: red;
+}
+.descripcion{
+  font-family: Verdana;
+  font-size: 15px;
+}
+.destacados{
+  background-color: orange;
+}
+.destacadosLetra{
+  font-family: Verdana;
+  font-size: 15px;
+  color: white;
+}
+.precioMostrado{
+  color: orangered;
+}
+.contactoTitulo{
+  color:grey; font-weight:bold; font-size:25px
+}
+.correo{
+  color:blue;
+}
+.negrita{
+  font-weight: bold;
+}
