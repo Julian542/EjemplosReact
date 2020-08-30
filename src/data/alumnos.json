@@ -1,0 +1,74 @@
+[
+	{
+		"carrera": "Ingenieria Civil",
+		"legajo": 23365,
+		"alumno": "Carlos Suarez",
+		"foto": "1.jpg",
+		"estaActivo": true,
+		"fechaNacimiento": "22-03-1990",
+		"notas": [3, 5, 7, 9, 10, 8, 6, 4]
+	},
+	{
+		"carrera": "Ingenieria Civil",
+		"legajo": 22654,
+		"alumno": "Pedro Alonso",
+		"foto": "2.jpg",
+		"estaActivo": true,
+		"fechaNacimiento": "11-10-1991",
+		"notas": [6, 7, 7, 8, 10, 8, 7, 8]
+	},
+	{
+		"carrera": "Ingenieria Civil",
+		"legajo": 23987,
+		"alumno": "Andrea Fernandez",
+		"foto": "3.jpg",
+		"estaActivo": true,
+		"fechaNacimiento": "12-09-1992",
+		"notas": [6, 7, 8, 8, 5, 7, 6, 6]
+	},
+	{
+		"carrera": "Ingenieria Civil",
+		"legajo": 24654,
+		"alumno": "Pablo Martinez",
+		"foto": "4.jpg",
+		"estaActivo": false,
+		"fechaNacimiento": "14-08-1990",
+		"notas": [9, 9, 10, 9, 10, 8, 10, 9]
+	},
+	{
+		"carrera": "Ingenieria Civil",
+		"legajo": 23114,
+		"alumno": "Matias Siudmak",
+		"foto": "5.jpg",
+		"estaActivo": true,
+		"fechaNacimiento": "16-07-1992",
+		"notas": [8, 8, 7, 9, 8, 7, 8, 9]
+	},
+	{
+		"carrera": "Ingenieria Civil",
+		"legajo": 23147,
+		"alumno": "Natalia Perez",
+		"foto": "6.jpg",
+		"estaActivo": true,
+		"fechaNacimiento": "23-06-1993",
+		"notas": [4, 6, 7, 6, 6, 7, 7, 6]
+	},
+	{
+		"carrera": "Ingenieria Civil",
+		"legajo": 23258,
+		"alumno": "Federico Nolasco",
+		"foto": "7.jpg",
+		"estaActivo": false,
+		"fechaNacimiento": "21-05-1991",
+		"notas": [6, 5, 5, 7, 7, 8, 9, 7]
+	},
+	{
+		"carrera": "Ingenieria Civil",
+		"legajo": 23369,
+		"alumno": "Soledad Sosa",
+		"foto": "8.jpg",
+		"estaActivo": true,
+		"fechaNacimiento": "02-04-1992",
+		"notas": [6, 8, 7, 9, 6, 8, 7, 6]
+	}
+]
